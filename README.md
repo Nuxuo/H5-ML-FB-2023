@@ -31,18 +31,6 @@ This project demonstrates a Unity ML-Agents environment where agents interact wi
   - Initializing and updating scores.
   - Displaying scores with the number of self-goals.
   
-## Getting Started
-
-1. Clone this repository to your local machine.
-2. Open the project in Unity.
-3. Run the scene to observe agent behavior and goal interactions.
-
-## Usage
-
-- Use this project as a starting point for creating custom Unity ML-Agents environments.
-- Experiment with different agent behaviors and rewards.
-- Extend the project by adding more agents, goals, or complex interactions.
-  
 ## Acknowledgments
 
 - This project was created with Unity ML-Agents, a toolkit provided by Unity Technologies for developing machine learning agents in Unity environments.
